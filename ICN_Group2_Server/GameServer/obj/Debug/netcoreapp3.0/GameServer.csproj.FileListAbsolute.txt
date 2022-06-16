@@ -1,0 +1,44 @@
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.csprojAssemblyReference.cache
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+D:\tomdw\Desktop\Networking\Tutorial\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.csprojAssemblyReference.cache
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+D:\tcp-udp-networking-tutorial-part4\GameServer\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
+D:\launch the rocket server\GameServer\obj\Debug\netcoreapp3.0\GameServer.csprojAssemblyReference.cache
+D:\launch the rocket server\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+D:\launch the rocket server\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+D:\launch the rocket server\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+D:\launch the rocket server\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
+D:\launch the rocket server\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+D:\launch the rocket server\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+D:\launch the rocket server\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+D:\launch the rocket server\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+D:\launch the rocket server\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+D:\launch the rocket server\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+D:\ICN_Group2_Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.exe
+D:\ICN_Group2_Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.deps.json
+D:\ICN_Group2_Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.json
+D:\ICN_Group2_Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.runtimeconfig.dev.json
+D:\ICN_Group2_Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.dll
+D:\ICN_Group2_Server\GameServer\bin\Debug\netcoreapp3.0\GameServer.pdb
+D:\ICN_Group2_Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.csprojAssemblyReference.cache
+D:\ICN_Group2_Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfoInputs.cache
+D:\ICN_Group2_Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.AssemblyInfo.cs
+D:\ICN_Group2_Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.dll
+D:\ICN_Group2_Server\GameServer\obj\Debug\netcoreapp3.0\GameServer.pdb
